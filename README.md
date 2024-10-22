@@ -1,2 +1,2 @@
 # HackerUniversity.github.io
-The Hacker University official website
+The Hacker's University official website
